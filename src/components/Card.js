@@ -6,6 +6,7 @@ import Me from "./me.jpg"
 export default class Card extends Component {
     render(){
         return (
+        <div className="container">
             <div className="card large" style={{marginTop: "100px"}}>
                 <div className="card-image waves-effect waves-block waves-light">
                     <img className="activator" src={Me}></img>
@@ -19,6 +20,7 @@ export default class Card extends Component {
                     <p className="center">Some information about me</p>
                 </div>
             </div>
+        </div>
         )
     }
 }

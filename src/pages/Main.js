@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Card from "../components/Card"
-// import Portfolio from "./Portfolio";
+import Portfolio from "./Portfolio";
 // import About from "./About"; 
 import Contact from "./Contact";
 import M from "materialize-css";
@@ -17,7 +17,7 @@ import {
 
 export default class Main extends Component {
     state = {
-        about: "",
+        skills: "",
         contact: "",
         portfolio: "",
 
@@ -28,7 +28,7 @@ export default class Main extends Component {
     
     navClick = event => {
         this.setState({
-            about: "",
+            skills: "",
             contact: "",
             portfolio: "",
             [event.target.name]: "active"
@@ -42,20 +42,20 @@ export default class Main extends Component {
                 skills={this.state.skills}
                 contact={this.state.contact}
                 portfolio={this.state.contact}
-                />
+                />         
                 <main>
-                    <div className="container">
-                    <Card/>
-                    </div>
                     <Switch>
+                        <Route exact path="/">
+                            <Card/>
+                        </Route>
                         <Route path="/skills">
                             <Skills/>
                         </Route>
-                        <Route path="/contact">
+                        <Route exact path="/contact">
                             <Contact/>
                         </Route>
                         <Route path="/portfolio">
-                            <Skills/>
+                            <Portfolio/>
                         </Route>
                     </Switch>
                 </main>
