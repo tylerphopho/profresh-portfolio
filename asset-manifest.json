@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/profresh-portfolio/static/css/main.4ab5e7ef.chunk.css",
+    "main.js": "/profresh-portfolio/static/js/main.a3f8e413.chunk.js",
+    "main.js.map": "/profresh-portfolio/static/js/main.a3f8e413.chunk.js.map",
+    "runtime-main.js": "/profresh-portfolio/static/js/runtime-main.214a1217.js",
+    "runtime-main.js.map": "/profresh-portfolio/static/js/runtime-main.214a1217.js.map",
+    "static/css/2.59405167.chunk.css": "/profresh-portfolio/static/css/2.59405167.chunk.css",
+    "static/js/2.9a0fcf85.chunk.js": "/profresh-portfolio/static/js/2.9a0fcf85.chunk.js",
+    "static/js/2.9a0fcf85.chunk.js.map": "/profresh-portfolio/static/js/2.9a0fcf85.chunk.js.map",
+    "index.html": "/profresh-portfolio/index.html",
+    "precache-manifest.262e1e2ed1ff6a5e1b75c6e54789696c.js": "/profresh-portfolio/precache-manifest.262e1e2ed1ff6a5e1b75c6e54789696c.js",
+    "service-worker.js": "/profresh-portfolio/service-worker.js",
+    "static/css/2.59405167.chunk.css.map": "/profresh-portfolio/static/css/2.59405167.chunk.css.map",
+    "static/css/main.4ab5e7ef.chunk.css.map": "/profresh-portfolio/static/css/main.4ab5e7ef.chunk.css.map",
+    "static/js/2.9a0fcf85.chunk.js.LICENSE.txt": "/profresh-portfolio/static/js/2.9a0fcf85.chunk.js.LICENSE.txt",
+    "static/media/Resume.docx.pdf": "/profresh-portfolio/static/media/Resume.docx.3c58d7f2.pdf",
+    "static/media/day-planner.PNG": "/profresh-portfolio/static/media/day-planner.fc81a374.PNG",
+    "static/media/event-finder-img.png": "/profresh-portfolio/static/media/event-finder-img.44fd180b.png",
+    "static/media/fitness-tracker.PNG": "/profresh-portfolio/static/media/fitness-tracker.e056b9e8.PNG",
+    "static/media/me.jpg": "/profresh-portfolio/static/media/me.6576fbc9.jpg",
+    "static/media/password-generator.png": "/profresh-portfolio/static/media/password-generator.837e1759.png",
+    "static/media/quiz-game.png": "/profresh-portfolio/static/media/quiz-game.16222a64.png",
+    "static/media/weather-dashboard.PNG": "/profresh-portfolio/static/media/weather-dashboard.b5e064dd.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.214a1217.js",
+    "static/css/2.59405167.chunk.css",
+    "static/js/2.9a0fcf85.chunk.js",
+    "static/css/main.4ab5e7ef.chunk.css",
+    "static/js/main.a3f8e413.chunk.js"
+  ]
+}
