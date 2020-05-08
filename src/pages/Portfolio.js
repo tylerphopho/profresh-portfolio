@@ -22,8 +22,9 @@ export default function Portfolio() {
                             <a href="https://tylerphopho.github.io/event-finder/">View Project</a>
                         </div>
                         <div className="card-reveal">
-                            <span className="card-title grey-text text-darken-4">Event Finder</span>
-                            <p>Information about the project</p>
+                            <span className="card-title grey-text text-darken-4"><h4>Details</h4><i class="material-icons right">close</i></span>
+                            <br/>
+                            <h5>Ticketmaster API for Events <br/>Materialize CSS Framework<br/> Here API for location</h5>
                         </div>
                     </div>
                 </div>
@@ -37,8 +38,9 @@ export default function Portfolio() {
                             <a href="https://tylerphopho.github.io/PW-Generation/">View Project</a>
                         </div>
                         <div className="card-reveal">
-                            <span className="card-title grey-text text-darken-4">Password Generator</span>
-                            <p>Information about the project</p>
+                            <span className="card-title grey-text text-darken-4"><h4>Details</h4><i class="material-icons right">close</i></span>
+                            <br/>
+                            <h5>HTML<br/>CSS<br/>Javascript</h5>
                         </div>
                     </div>
                 </div>
@@ -55,8 +57,8 @@ export default function Portfolio() {
                             <a href="https://tylerphopho.github.io/PW-Generation/">View Project</a>
                         </div>
                         <div className="card-reveal">
-                            <span className="card-title grey-text text-darken-4">Quiz Game</span>
-                            <p>Information about the project</p>
+                            <span className="card-title grey-text text-darken-4"><h4>Details</h4><i class="material-icons right">close</i></span>
+                            <h5>HTML<br/>CSS<br/>Javascript<br/>jQuery</h5>
                         </div>
                     </div>
                 </div>
@@ -70,8 +72,8 @@ export default function Portfolio() {
                             <a href="https://secure-headland-44408.herokuapp.com/?id=5eadff3550e46300172c0159">View Project</a>
                         </div>
                         <div className="card-reveal">
-                            <span className="card-title grey-text text-darken-4">Fitness Tracker</span>
-                            <p>Information about the project</p>
+                            <span className="card-title grey-text text-darken-4"><h4>Details</h4><i class="material-icons right">close</i></span>
+                            <h5>HTML<br/>CSS<br/>Javascript<br/>MongoDB</h5>
                         </div>
                     </div>
                 </div>
@@ -87,8 +89,8 @@ export default function Portfolio() {
                             <a href="https://tylerphopho.github.io/weekly-day-planner/">View Project</a>
                         </div>
                         <div className="card-reveal">
-                            <span className="card-title grey-text text-darken-4">Day Planner</span>
-                            <p>Information about the project</p>
+                            <span className="card-title grey-text text-darken-4"><h4>Details</h4><i class="material-icons right">close</i></span>
+                            <h5>HTML<br/>CSS<br/>Javascript<br/>jQuery</h5>
                         </div>
                     </div>
                 </div>  
@@ -102,8 +104,8 @@ export default function Portfolio() {
                             <a href="https://tylerphopho.github.io/weekly-day-planner/">View Project</a>
                         </div>
                         <div className="card-reveal">
-                            <span className="card-title grey-text text-darken-4">Weather Dashboard</span>
-                            <p>Information about the project</p>
+                            <span className="card-title grey-text text-darken-4"><h4>Details</h4><i class="material-icons right">close</i></span>
+                            <h5>HTML<br/>CSS<br/>Javascript</h5>
                         </div>
                     </div>
                 </div>  
