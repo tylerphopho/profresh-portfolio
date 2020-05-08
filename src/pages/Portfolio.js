@@ -46,7 +46,7 @@ export default function Portfolio() {
 
             <div className="row">
                 <div className="col s6 m6">
-                    <div className="card">
+                    <div className="card ">
                         <div className="card-image waves effect waves-block waves-light ">
                             <img className="activator" src={QuizGame}/>  
                             </div>  
