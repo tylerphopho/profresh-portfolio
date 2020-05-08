@@ -15,7 +15,7 @@ export default function Portfolio() {
                 <div className="col s6 m6">
                     <div className="card">
                         <div className="card-image waves effect waves-block waves-light ">
-                            <img className="activator" src={EventFinder}/>  
+                            <img className="activator" src={EventFinder} alt="event-finder"/>  
                             </div>
                         <div className="card-content">
                             <span className="card-title activator grey-text text-darken-4">Event Finder</span>
@@ -31,7 +31,7 @@ export default function Portfolio() {
                 <div className="col s6 m6">
                     <div className="card">
                         <div className="card-image waves effect waves-block waves-light ">
-                            <img className="activator" src={PasswordGen}/>  
+                            <img className="activator" src={PasswordGen} alt="password-gen"/>  
                             </div>
                         <div className="card-content">
                             <span className="card-title activator grey-text text-darken-4">Password Generator</span>
@@ -50,7 +50,7 @@ export default function Portfolio() {
                 <div className="col s6 m6">
                     <div className="card ">
                         <div className="card-image waves effect waves-block waves-light ">
-                            <img className="activator" src={QuizGame}/>  
+                            <img className="activator" src={QuizGame} alt="quiz-game"/>  
                             </div>  
                         <div className="card-content">
                             <span className="card-title activator grey-text text-darken-4">Quiz Game</span>
@@ -65,7 +65,7 @@ export default function Portfolio() {
                 <div className="col s6 m6">
                     <div className="card">
                         <div className="card-image waves effect waves-block waves-light ">
-                            <img className="activator" src={Fitness}/>  
+                            <img className="activator" src={Fitness} alt="fitness"/>  
                             </div>
                         <div className="card-content">
                             <span className="card-title activator grey-text text-darken-4">Fitness Tracker</span>
@@ -82,7 +82,7 @@ export default function Portfolio() {
             <div className="col s6 m6">
                     <div className="card">
                         <div className="card-image waves effect waves-block waves-light ">
-                            <img className="activator" src={DayPlanner}/>  
+                            <img className="activator" src={DayPlanner} alt="day-planner"/>  
                             </div>
                         <div className="card-content">
                             <span className="card-title activator grey-text text-darken-4">Day Planner</span>
@@ -97,7 +97,7 @@ export default function Portfolio() {
                 <div className="col s6 m6">
                     <div className="card">
                         <div className="card-image waves effect waves-block waves-light ">
-                            <img className="activator" src={Weather}/>  
+                            <img className="activator" src={Weather} alt="weather"/>  
                             </div>
                         <div className="card-content">
                             <span className="card-title activator grey-text text-darken-4">Weather Dashboard</span>

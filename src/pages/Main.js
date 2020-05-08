@@ -4,7 +4,6 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Card from "../components/Card"
 import Portfolio from "./Portfolio";
-// import About from "./About"; 
 import Contact from "./Contact";
 import M from "materialize-css";
 import Skills from './Skills';
