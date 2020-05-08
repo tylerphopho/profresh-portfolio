@@ -12,11 +12,11 @@ export default class Card extends Component {
                 </div>
                 <div className="card-content">
                     <span className="card-title activator grey-text text-darken-4 center"><h4>Welcome to my Portfolio!</h4></span>
-                    <h5 className="center"><a href="#   ">View Portfolio</a></h5>
+                    <h5 className="center"><a href="#">View Portfolio</a></h5>
                 </div>
                 <div className="card-reveal">
-                    <span className="card-title grey-text text-darken-4">About</span>
-                    <p>Some information about me</p>
+                    <span className="card-title activator grey-text text-darken-4"><h4 className="center">About</h4></span>
+                    <p className="center">Some information about me</p>
                 </div>
             </div>
         )
